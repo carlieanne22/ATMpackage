@@ -1,2 +1,2 @@
-# ATMpackage
+# ATMapp
 Write an ATM application and banking package
